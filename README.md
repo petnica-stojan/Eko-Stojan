@@ -5,7 +5,7 @@ Projekat na temu "H bridge" rađen na letnjem seminaru u IS Petnica.
 
 ### Potrebni dokumenti
 
-- eko_stojan.hex -> *Micro:bit dokument za Micro:bit v1.\* *
+- eko_stojan.hex -> *Micro:bit dokument za Micro:bit v1.\**
 - arduino_bridge.cpp -> *Arduino UNO dokument*
 
 ### Potrebne komponente i šeme
